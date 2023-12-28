@@ -1,0 +1,12 @@
+qiskit
+qiskit-aer
+qiskit_machine_learning
+pylatexenc
+matplotlib
+jupyter
+tqdm
+pennylane
+pennylane-lightning[gpu]
+pennylane-qiskit
+datasets
+tensorflow[and-cuda]

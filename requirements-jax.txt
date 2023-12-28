@@ -1,0 +1,16 @@
+qiskit
+qiskit-aer
+qiskit_machine_learning
+pylatexenc
+matplotlib
+jupyter
+tqdm
+pennylane
+pennylane-lightning[gpu]
+pennylane-qiskit
+datasets
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax[cuda12_pip]
+equinox
+tensorflow-cpu
+optax
